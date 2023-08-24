@@ -4,4 +4,4 @@ Here is the code for our paper ``Data Assimilation for Sign-indefinite Priors: A
 
 We present a generalized Sinkhorn algorithm with sign-indefinite priors.
 
-
+![alt text](http://url/to/img.png)
